@@ -27,11 +27,18 @@ The test is structured using Cypress conventions, including:
 1. Install dependencies:
    ```bash
     npm install
+   ```
+   ```bash
     npm install cypress
+   ```
 3. Run the test in Cypress UI:
+   ```bash
     npx cypress open
-4. Run the test headlessly:
+   ```
+5. Run the test headlessly:
+   ```bash
     npx cypress run
+   ```
 
 
 
